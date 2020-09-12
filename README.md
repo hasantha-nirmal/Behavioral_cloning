@@ -52,3 +52,5 @@ The architecture we used to build a CNN is from the NVIDIA research paper. They 
 Then in fit generator we used NVIDA recommended values such as 300 steps for epochs etc. We perform 10 epochs and we have got no need of using keras functions such as early stopping or checkpoints due to good model performance. 
 
 ![](/README/Picture8.png)
+
+# Please Download the Zip file for all the materials.
