@@ -1,4 +1,5 @@
 # Behavioral cloning (For Automated Driving)
+This is a basic implemetation of a CNN For Self Driving Cars inspired by NVIDIA
 
 The goals / steps of this project are the following:
 
